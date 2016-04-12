@@ -1,0 +1,16 @@
+body{
+	background-color:white;  
+}
+.navbar-inverse {
+	background-color:#415E90;
+}
+.side-nav {
+	background-color:#415E90;	
+	width:180px;
+}
+.navbar-inverse .navbar-nav > .active > a {
+	background-color:#415E90;
+}
+.boder{
+	border: 1px solid #AAA111;
+}
