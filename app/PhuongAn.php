@@ -15,3 +15,4 @@ use DB;
 class PhuongAn extends Model
 {	
 	
+}
