@@ -26,4 +26,5 @@ class PhuongAn extends Model
 							-> get();
 		}
 	}
+	
 }
